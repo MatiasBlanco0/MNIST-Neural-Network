@@ -1,4 +1,4 @@
 # MNIST-Neural-Network
 
 ## Integrantes
-Matias Blanco, Matias Singer y Agustin Feldberg
+Matias Blanco, Matias Singermann y Agustin Feldberg
